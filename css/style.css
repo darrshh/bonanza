@@ -1025,11 +1025,14 @@ select:focus {
 ===============================================*/
 .main-header {
     position: relative;
+    background-image: url(../images/resources/aboutbg3.png);
     display: block;
     z-index: 999;
 }
 
-.main-header.header-style1 {}
+.main-header.header-style1 {
+    background-image: url(../images/resources/aboutbg3.png);
+}
 
 .header-upper-style1 {
     position: relative;
@@ -1039,6 +1042,7 @@ select:focus {
 
 .header-upper-style1.fixed-header .inner-container {
     position: fixed;
+    background-image: url(../images/resources/aboutbg3.png);
     top: 0px;
     left: 0;
     right: 0;
@@ -1276,7 +1280,7 @@ select:focus {
 .main-menu .navigation>li>ul>li>ul>li a {
     position: relative;
     display: block;
-    color: #828282;
+    /* color: #828282; */
     font-size: 15px;
     line-height: 20px;
     font-weight: 400;
@@ -4048,6 +4052,7 @@ select:focus {
     position: relative;
     display: block;
     z-index: 9999;
+    background-image: url(../images/resources/aboutbg3.png);
 }
 
 .header-style2.stricky-fixed {
@@ -4056,7 +4061,7 @@ select:focus {
     left: 0;
     width: 100%;
     z-index: 99999999;
-    background: #ffffff;
+    /* background: transparent; */
     margin: 0;
     animation-name: menu_sticky;
     animation-duration: 0.60s;
@@ -6537,7 +6542,7 @@ select:focus {
 .mainmenu-style3-area {
     position: relative;
     display: block;
-    background: #033500;
+    background: transparent;
 }
 
 .mainmenu-style3-area.stricky-fixed {
@@ -6546,7 +6551,7 @@ select:focus {
     left: 0;
     width: 100%;
     z-index: 99999999;
-    background: #033500;
+    background: transparent;
     margin: 0;
     animation-name: menu_sticky;
     animation-duration: 0.60s;
@@ -7785,7 +7790,7 @@ select:focus {
 .breadcrumb-area .inner-content {
     position: relative;
     display: block;
-    padding: 360px 0 0;
+    padding: 100px 0 0;
 }
 
 .breadcrumb-area .title {
