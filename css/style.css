@@ -116,7 +116,7 @@ h6 {
 }
 
 h3 {
-    color: #033500;
+    color: #007230;
     font-size: 20px;
     line-height: 26px;
 }
@@ -224,12 +224,12 @@ li {
 
 .btn-one:hover {
     color: #ffffff;
-    background: #033500;
+    background: #007230;
 }
 
 
 .btn-two {
-    color: #033500;
+    color: #007230;
     font-size: 15px;
     line-height: 20px;
     ;
@@ -315,7 +315,7 @@ li {
 .sec-title .title {
     position: relative;
     display: block;
-    color: #033500;
+    color: #007230;
     font-size: 36px;
     line-height: 44px;
     font-weight: 700;
@@ -505,7 +505,7 @@ li {
 }
 
 .accordion-box .accordion .accord-btn h4 {
-    color: #033500;
+    color: #007230;
     font-size: 18px;
     line-height: 26px;
     font-weight: 600;
@@ -526,7 +526,7 @@ li {
 }
 
 .accordion-box .accordion .accord-btn.active {
-    background: #033500;
+    background: #007230;
     transition: all 500ms ease;
 }
 
@@ -1379,7 +1379,7 @@ select:focus {
 .outer-search-box .seach-toggle {
     position: relative;
     display: block;
-    color: #033500;
+    color: #007230;
     font-size: 16px;
     line-height: 50px;
     cursor: pointer;
@@ -1402,7 +1402,7 @@ select:focus {
     position: absolute;
     top: 120%;
     right: 0%;
-    background: #033500;
+    background: #007230;
     opacity: 0;
     padding: 20px;
     transition: all 500ms ease 0s;
@@ -1486,7 +1486,7 @@ select:focus {
     position: relative;
     display: inline-block;
     float: left;
-    color: #033500;
+    color: #007230;
     font-size: 20px;
     line-height: 20px;
     padding-right: 6px;
@@ -1968,7 +1968,7 @@ select:focus {
     position: relative;
     display: block;
     background: #f6f6f6;
-    color: #033500;
+    color: #007230;
 }
 
 .single-highlight-box:hover .inner-content a {
@@ -2224,7 +2224,7 @@ select:focus {
 }
 
 .working-area::before {
-    background: #033500;
+    background: #007230;
     position: absolute;
     top: 0;
     left: 0;
@@ -2387,7 +2387,7 @@ select:focus {
 }
 
 .single-working-box .text-holder .outer-box .text h3 {
-    color: #033500;
+    color: #007230;
     font-weight: 600;
     margin: 0 0 13px;
 }
@@ -2484,7 +2484,7 @@ select:focus {
 
 .single-project-style1 .overlay-content .inner-content .link-box a {
     background: #ffffff;
-    color: #033500;
+    color: #007230;
     line-height: 55px;
     padding: 0 25px 0;
 }
@@ -2626,7 +2626,7 @@ select:focus {
 }
 
 .single-working-process .top-box span {
-    color: #033500;
+    color: #007230;
     font-size: 24px;
     line-height: 30px;
     font-weight: 500;
@@ -2656,7 +2656,7 @@ select:focus {
 }
 
 .single-working-process .inner h3 {
-    color: #033500;
+    color: #007230;
     font-weight: 600;
     margin: 0 0 18px;
 }
@@ -2715,7 +2715,7 @@ select:focus {
 }
 
 .slogan-area .button a {
-    color: #033500;
+    color: #007230;
     background: #ffffff;
 }
 
@@ -2855,7 +2855,7 @@ select:focus {
 .appointment-area {
     position: relative;
     display: block;
-    background: #033500;
+    background: #007230;
     background-position: top right;
     background-attachment: scroll;
     background-repeat: no-repeat;
@@ -2964,7 +2964,7 @@ select:focus {
 }
 
 .map-content-box .inner .overlay .location-info h3 {
-    color: #033500;
+    color: #007230;
     font-weight: 700;
     margin: 0 0 13px;
 }
@@ -2991,7 +2991,7 @@ select:focus {
 }
 
 .appointment-box .title-box h2 {
-    color: #033500;
+    color: #007230;
     font-size: 24px;
     line-height: 34px;
     font-weight: 600;
@@ -3248,7 +3248,7 @@ select:focus {
 }
 
 .single-blog-post .text-holder .post-date h3 span {
-    color: #033500;
+    color: #007230;
     font-size: 14px;
 }
 
@@ -3317,7 +3317,7 @@ select:focus {
 }
 
 .single-blog-post .text-holder .blog-title a {
-    color: #033500;
+    color: #007230;
     transition: all 500ms ease;
 }
 
@@ -3477,7 +3477,7 @@ select:focus {
 .footer-area {
     position: relative;
     display: block;
-    background: #033500;
+    background: #007230;
     padding-top: 110px;
     padding-bottom: 110px;
     z-index: 1;
@@ -3768,7 +3768,7 @@ select:focus {
 }
 
 .single-footer-widget .brochures-carousel-box .title-holder h3 {
-    color: #033500;
+    color: #007230;
     font-size: 18px;
     line-height: 26px;
     font-weight: 600;
@@ -3853,7 +3853,7 @@ select:focus {
     display: inline-block;
     float: left;
     padding-right: 15px;
-    color: #033500;
+    color: #007230;
     font-size: 14px;
     line-height: 30px;
     font-weight: 600;
@@ -4196,7 +4196,7 @@ select:focus {
 }
 
 .about-style2-text .authorised-info .name h3 {
-    color: #033500;
+    color: #007230;
     font-weight: 600;
     margin: 0 0 5px;
 }
@@ -4271,7 +4271,7 @@ select:focus {
 }
 
 .about-style2-image-box .overlay-box .title h1 {
-    color: #033500;
+    color: #007230;
     font-size: 48px;
     font-weight: 500;
     filter: alpha(opacity=50);
@@ -4735,7 +4735,7 @@ select:focus {
 .single-service-style1 .text-holder .bottom .title {}
 
 .single-service-style1 .text-holder .bottom .title h3 {
-    color: #033500;
+    color: #007230;
     font-weight: 600;
 }
 
@@ -4864,7 +4864,7 @@ select:focus {
 .slogan-style2-area .inner-content .button {}
 
 .slogan-style2-area .inner-content .button a {
-    color: #033500;
+    color: #007230;
     background: #ffffff;
     margin: 0 13px;
     padding: 0 40px 0;
@@ -4872,7 +4872,7 @@ select:focus {
 
 .slogan-style2-area .inner-content .button a:hover {
     color: #ffffff;
-    background: #033500;
+    background: #007230;
 }
 
 .slogan-style2-area .inner-content .button a.call-us {
@@ -4911,7 +4911,7 @@ select:focus {
     position: relative;
     display: block;
     padding-bottom: 60px;
-    background: #033500;
+    background: #007230;
     max-width: 390px;
     width: 100%;
 }
@@ -5034,7 +5034,7 @@ select:focus {
 }
 
 .why-choose-content .single-box.blackbg {
-    background: #033500;
+    background: #007230;
 }
 
 .why-choose-content .single-box .icon-holder {
@@ -5366,7 +5366,7 @@ select:focus {
 }
 
 .single-working-process-style2 .inner h3 {
-    color: #033500;
+    color: #007230;
     font-weight: 600;
     margin: 0 0 18px;
 }
@@ -5491,7 +5491,7 @@ select:focus {
 .single-testimonial-style2 .client-info .review-box ul li i {}
 
 .single-testimonial-style2 .client-info h3 {
-    color: #033500;
+    color: #007230;
     font-size: 18px;
     font-weight: 600;
     margin: 8px 0 0;
@@ -5728,7 +5728,7 @@ select:focus {
 }
 
 .content-info-box .inner-content .single-info-box.white-bg .text h3 {
-    color: #033500;
+    color: #007230;
 }
 
 .content-info-box .inner-content .single-info-box.white-bg .text p {
@@ -5750,7 +5750,7 @@ select:focus {
 }
 
 .contact-details-form-box .title-box h2 {
-    color: #033500;
+    color: #007230;
     font-size: 30px;
     line-height: 36px;
     font-weight: 600;
@@ -5983,7 +5983,7 @@ select:focus {
 }
 
 .instagram-title a:hover {
-    color: #033500;
+    color: #007230;
 }
 
 .instagram-items {
@@ -6126,7 +6126,7 @@ select:focus {
 }
 
 .single-footer-widget .our-info-box .text p {
-    color: #7c7e84;
+    color: #fff;
     margin: 0;
 }
 
@@ -6217,7 +6217,7 @@ select:focus {
 }
 
 .single-footer-widget .usefull-links ul li a {
-    color: #7c7e84;
+    color: #fff;
     font-size: 15px;
     font-weight: 400;
     padding-left: 20px;
@@ -6234,7 +6234,7 @@ select:focus {
     left: 0;
     content: "\f107";
     font-family: "Flaticon";
-    color: #7c7e84;
+    color: #fff;
     font-size: 10px;
     transition: all 500ms ease;
     font-weight: 600;
@@ -6273,7 +6273,7 @@ select:focus {
 .single-footer-widget .subscribe-form input[type="email"] {
     position: relative;
     display: block;
-    background: #033500;
+    background: #007230;
     border: 1px solid #404043;
     color: #62656f;
     font-size: 18px;
@@ -6325,7 +6325,7 @@ select:focus {
 }
 
 .single-footer-widget .subscribe-box .text p {
-    color: #7c7e84;
+    color: #fff;
     font-size: 15px;
     margin: 0;
 }
@@ -6711,7 +6711,7 @@ select:focus {
     padding-left: 30px;
     padding-right: 30px;
     z-index: 3;
-    background: #033500;
+    background: #007230;
     transition: all 300ms ease 100ms;
     opacity: 0;
     visibility: hidden;
@@ -6789,7 +6789,7 @@ select:focus {
 }
 
 .about-style3-content .button a.black {
-    background: #033500;
+    background: #007230;
 }
 
 .about-style3-bg {
@@ -6980,7 +6980,7 @@ select:focus {
 }
 
 .single-service-style2 .text-holder .inner h3 {
-    color: #033500;
+    color: #007230;
     font-weight: 600;
     margin: 0 0 18px;
 }
@@ -6996,7 +6996,7 @@ select:focus {
 }
 
 .single-service-style2 .text-holder .inner .read-more a {
-    color: #033500;
+    color: #007230;
     background: #f6f6f6;
     display: block;
 }
@@ -7089,7 +7089,7 @@ select:focus {
 .latest-projects-area {
     position: relative;
     display: block;
-    background: #033500;
+    background: #007230;
     width: 100%;
     padding: 110px 60px 104px;
 }
@@ -7276,7 +7276,7 @@ select:focus {
     top: 0;
     left: 0;
     right: 0;
-    border-top: 4px solid #033500;
+    border-top: 4px solid #007230;
     text-align: center;
     transition: all 900ms ease 100ms;
     transform-style: preserve-3d;
@@ -7402,7 +7402,7 @@ select:focus {
 }
 
 .single-team-member .name h3 {
-    color: #033500;
+    color: #007230;
     font-weight: 600;
     margin: 8px 0 0;
 }
@@ -7484,7 +7484,7 @@ select:focus {
 }
 
 .single-testimonial-style3 .client-info .title h3 {
-    color: #033500;
+    color: #007230;
     font-size: 18px;
     font-weight: 600;
     margin: 0 0 2px;
@@ -8051,7 +8051,7 @@ select:focus {
 }
 
 .single-history-content .text-box .inner .title h3 {
-    color: #033500;
+    color: #007230;
     font-size: 24px;
     line-height: 32px;
     font-weight: 600;
@@ -8200,7 +8200,7 @@ select:focus {
 }
 
 .single-fact-counter .title h3 {
-    color: #033500;
+    color: #007230;
     font-size: 18px;
     line-height: 28px;
     font-weight: 600;
@@ -8301,7 +8301,7 @@ li .single-footer-contact-info .text p {
 }
 
 li .single-footer-contact-info .text p span {
-    color: #033500;
+    color: #007230;
 }
 
 
@@ -8604,7 +8604,7 @@ li .single-footer-contact-info .text p span {
 }
 
 .single-service-top .text h2 {
-    color: #033500;
+    color: #007230;
     font-size: 30px;
     line-height: 40px;
     font-weight: 700;
@@ -8675,7 +8675,7 @@ li .single-footer-contact-info .text p span {
 }
 
 .single-advantages-box .title h3 {
-    color: #033500;
+    color: #007230;
     font-size: 18px;
     line-height: 24px;
     font-weight: 600;
@@ -8740,7 +8740,7 @@ li .single-footer-contact-info .text p span {
 }
 
 .how-work-box .how-works-content h2 {
-    color: #033500;
+    color: #007230;
     font-size: 24px;
     font-weight: 700;
     margin-top: -5px;
@@ -8790,7 +8790,7 @@ li .single-footer-contact-info .text p span {
 }
 
 .how-work-box .how-works-content ul li .text h3 {
-    color: #033500;
+    color: #007230;
     font-size: 20px;
     line-height: 28px;
     font-weight: 600;
@@ -8814,7 +8814,7 @@ li .single-footer-contact-info .text p span {
 }
 
 .concept-design-pricing-box .title h2 {
-    color: #033500;
+    color: #007230;
     font-size: 24px;
     line-height: 32px;
     font-weight: 700;
@@ -9012,7 +9012,7 @@ li .single-footer-contact-info .text p span {
 }
 
 .additional-information-box .title h2 {
-    color: #033500;
+    color: #007230;
     font-size: 24px;
     line-height: 32px;
     font-weight: 700;
@@ -9103,7 +9103,7 @@ li .single-footer-contact-info .text p span {
     position: relative;
     display: block;
     padding-left: 30px;
-    color: #033500;
+    color: #007230;
     font-size: 15px;
     font-weight: 600;
     text-transform: capitalize;
@@ -9162,7 +9162,7 @@ li .single-footer-contact-info .text p span {
     position: relative;
     display: block;
     padding: 48px 40px 50px;
-    background: #033500;
+    background: #007230;
     z-index: 1;
 }
 
@@ -9290,7 +9290,7 @@ li .single-footer-contact-info .text p span {
 .project-filter li+li {}
 
 .project-filter li .filter-text {
-    color: #033500;
+    color: #007230;
     font-size: 13px;
     font-weight: 600;
     text-transform: uppercase;
@@ -9393,8 +9393,8 @@ li .single-footer-contact-info .text p span {
 .single-project-style4 .img-holder:before {
     transform: scale(0, 1);
     transform-origin: bottom center;
-    border-top: 3px solid #033500;
-    border-bottom: 3px solid #033500;
+    border-top: 3px solid #007230;
+    border-bottom: 3px solid #007230;
 }
 
 .single-project-style4:hover .img-holder:before {
@@ -9404,8 +9404,8 @@ li .single-footer-contact-info .text p span {
 .single-project-style4 .img-holder:after {
     transform: scale(1, 0);
     transform-origin: left center;
-    border-left: 3px solid #033500;
-    border-right: 3px solid #033500;
+    border-left: 3px solid #007230;
+    border-right: 3px solid #007230;
 }
 
 .single-project-style4:hover .img-holder:after {
@@ -9502,7 +9502,7 @@ li .single-footer-contact-info .text p span {
 }
 
 .single-project-style4 .img-holder .overlay-content .title h3 a {
-    color: #033500;
+    color: #007230;
     transition: all 500ms ease;
 }
 
@@ -9615,7 +9615,7 @@ li .single-footer-contact-info .text p span {
 }
 
 .single-project-style5 .title h3 a {
-    color: #033500;
+    color: #007230;
     transition: all 500ms ease;
 }
 
@@ -9870,7 +9870,7 @@ li .single-footer-contact-info .text p span {
 }
 
 .single-project-style7 .title h3 a {
-    color: #033500;
+    color: #007230;
     transition: all 500ms ease;
 }
 
@@ -10217,7 +10217,7 @@ li .single-footer-contact-info .text p span {
 }
 
 .single-project-style9 .title h3 a {
-    color: #033500;
+    color: #007230;
     transition: all 500ms ease;
 }
 
@@ -10363,7 +10363,7 @@ li .single-footer-contact-info .text p span {
     position: relative;
     display: block;
     padding-left: 20px;
-    color: #033500;
+    color: #007230;
     font-size: 24px;
     line-height: 30px;
     font-weight: 700;
@@ -10401,7 +10401,7 @@ li .single-footer-contact-info .text p span {
 }
 
 .project-info-content .inner-content ul li .icon span:before {
-    color: #033500;
+    color: #007230;
     font-size: 30px;
     line-height: 30px;
 }
@@ -10417,7 +10417,7 @@ li .single-footer-contact-info .text p span {
 }
 
 .project-info-content .inner-content ul li .title h4 {
-    color: #033500;
+    color: #007230;
     font-size: 16px;
     line-height: 20px;
     font-weight: 600;
@@ -10572,7 +10572,7 @@ li .single-footer-contact-info .text p span {
 }
 
 .similar-project-title h2 {
-    color: #033500;
+    color: #007230;
     font-size: 30px;
     line-height: 38px;
     font-weight: 700;
@@ -10649,7 +10649,7 @@ li .single-footer-contact-info .text p span {
 }
 
 .single-similar-project .title-holder h3 a {
-    color: #033500;
+    color: #007230;
 }
 
 
@@ -10889,7 +10889,7 @@ li .single-footer-contact-info .text p span {
 }
 
 .sidebar-title .title {
-    color: #033500;
+    color: #007230;
     font-size: 20px;
     line-height: 24px;
     font-weight: 600;
@@ -11134,7 +11134,7 @@ li .single-footer-contact-info .text p span {
 }
 
 .single-sidebar .recent-post li .title-holder .post-title a {
-    color: #033500;
+    color: #007230;
     transition: all 500ms ease;
 }
 
@@ -11259,7 +11259,7 @@ li .single-footer-contact-info .text p span {
 
 .single-sidebar .popular-tag li a:hover {
     color: #ffffff;
-    background: #033500;
+    background: #007230;
 }
 
 
@@ -11400,7 +11400,7 @@ li .single-footer-contact-info .text p span {
 }
 
 .single-blog-post .top-text-box h3 {
-    color: #033500;
+    color: #007230;
     font-size: 20px;
     font-weight: 600;
     margin: 27px 0 28px;
@@ -11410,7 +11410,7 @@ li .single-footer-contact-info .text p span {
     position: relative;
     display: block;
     padding: 33px 40px 33px;
-    background: #033500;
+    background: #007230;
     margin-top: 36px;
     margin-bottom: 54px;
 }
@@ -11505,7 +11505,7 @@ li .single-footer-contact-info .text p span {
 }
 
 .blog-single-bottom-content-box h2 {
-    color: #033500;
+    color: #007230;
     font-size: 24px;
     line-height: 32px;
     font-weight: 700;
@@ -11563,7 +11563,7 @@ li .single-footer-contact-info .text p span {
     position: relative;
     display: inline-block;
     float: left;
-    color: #033500;
+    color: #007230;
     font-size: 16px;
     line-height: 30px;
     font-weight: 500;
@@ -11613,7 +11613,7 @@ li .single-footer-contact-info .text p span {
     position: relative;
     display: inline-block;
     float: left;
-    color: #033500;
+    color: #007230;
     font-size: 16px;
     line-height: 30px;
     font-weight: 500;
@@ -11772,7 +11772,7 @@ li .single-footer-contact-info .text p span {
 }
 
 .blog-prev-next-option .single .title a {
-    color: #033500;
+    color: #007230;
     transition: all 500ms ease;
 }
 
@@ -11852,7 +11852,7 @@ li .single-footer-contact-info .text p span {
     display: inline-block;
     float: left;
     padding-right: 10px;
-    color: #033500;
+    color: #007230;
     font-size: 15px;
     font-weight: 500;
     line-height: 30px;
@@ -11915,7 +11915,7 @@ li .single-footer-contact-info .text p span {
 }
 
 .single-blog-title-box h2 {
-    color: #033500;
+    color: #007230;
     font-size: 24px;
     line-height: 32px;
     font-weight: 700;
@@ -11980,7 +11980,7 @@ li .single-footer-contact-info .text p span {
 }
 
 .blog-single-area .inner-comment-box .single-comment-box .text-box .top .name h3 {
-    color: #033500;
+    color: #007230;
     font-size: 20px;
     font-weight: 600;
     margin: 0 0 3px;
@@ -12188,7 +12188,7 @@ li .single-footer-contact-info .text p span {
 }
 
 .single-product-item .title-holder .title a {
-    color: #033500;
+    color: #007230;
     transition: all 500ms ease;
 }
 
@@ -12274,7 +12274,7 @@ li .single-footer-contact-info .text p span {
     visibility: hidden;
     padding: 0;
     text-align: center;
-    background-color: #033500;
+    background-color: #007230;
     transition: all 300ms ease 100ms;
     z-index: 999;
     min-width: 130px;
@@ -12287,7 +12287,7 @@ li .single-footer-contact-info .text p span {
     bottom: -8px;
     right: 0;
     content: "\f0d7";
-    color: #033500;
+    color: #007230;
     font-size: 25px;
     text-align: center;
     line-height: 10px;
@@ -12357,7 +12357,7 @@ li .single-footer-contact-info .text p span {
     bottom: 0;
     display: block;
     background: #f6f6f6;
-    color: #033500;
+    color: #007230;
     font-size: 14px;
     height: 50px;
     width: 50px;
@@ -12521,7 +12521,7 @@ li .single-footer-contact-info .text p span {
     text-align: center;
     width: 90px;
     border: none;
-    color: #033500;
+    color: #007230;
     font-size: 15px;
     font-weight: 500;
     margin-top: 0;
@@ -12653,7 +12653,7 @@ li .single-footer-contact-info .text p span {
 }
 
 .shop-sidebar-wrapper .products-post li .title-holder .post-title a {
-    color: #033500;
+    color: #007230;
     transition: all 500ms ease;
 }
 
@@ -12698,7 +12698,7 @@ li .single-footer-contact-info .text p span {
 }
 
 .single-shop-content .content-box h2 {
-    color: #033500;
+    color: #007230;
     font-size: 30px;
     font-weight: 600;
     margin: 6px 0 7px;
@@ -12767,7 +12767,7 @@ li .single-footer-contact-info .text p span {
     float: left;
     background: #f6f6f6;
     border: none;
-    color: #033500;
+    color: #007230;
     font-size: 15px;
     font-weight: 500;
     line-height: 52px;
@@ -12872,7 +12872,7 @@ li .single-footer-contact-info .text p span {
     position: relative;
     display: inline-block;
     float: left;
-    color: #033500;
+    color: #007230;
     font-size: 16px;
     line-height: 40px;
     font-weight: 600;
@@ -12980,7 +12980,7 @@ li .single-footer-contact-info .text p span {
     cursor: pointer;
     margin: 0;
     padding: 15px 20px 13px;
-    color: #033500;
+    color: #007230;
     font-size: 20px;
     font-weight: 600;
     text-transform: capitalize;
@@ -13067,7 +13067,7 @@ li .single-footer-contact-info .text p span {
 }
 
 .review-box-holder .single-review-box .text-holder .top .name h3 {
-    color: #033500;
+    color: #007230;
     font-size: 18px;
     font-weight: 600;
     margin: 0 0 6px;
@@ -13282,7 +13282,7 @@ li .single-footer-contact-info .text p span {
 .cart-area .cart-table .cart-header {
     position: relative;
     background: #f6f6f6;
-    color: #033500;
+    color: #007230;
     font-size: 16px;
     font-weight: 600;
     text-transform: capitalize;
@@ -13311,7 +13311,7 @@ li .single-footer-contact-info .text p span {
 }
 
 .cart-area .cart-table tbody tr td {
-    color: #033500;
+    color: #007230;
     font-size: 18px;
     font-weight: 600;
     line-height: 24px;
@@ -13350,7 +13350,7 @@ li .single-footer-contact-info .text p span {
 }
 
 .cart-area .cart-table tbody tr .prod-column .column-box .title h3 {
-    color: #033500;
+    color: #007230;
     font-size: 18px;
     font-weight: 600;
     line-height: 20px;
@@ -13504,7 +13504,7 @@ li .single-footer-contact-info .text p span {
 }
 
 .cart-middle .apply-coupon .apply-coupon-button button {
-    color: #033500;
+    color: #007230;
     background: #f6f6f6;
 }
 
@@ -13608,7 +13608,7 @@ li .single-footer-contact-info .text p span {
 }
 
 .cart-bottom .calculate-shipping button {
-    color: #033500;
+    color: #007230;
     background: #f6f6f6;
 }
 
@@ -13618,7 +13618,7 @@ li .single-footer-contact-info .text p span {
 }
 
 .cart-bottom button.checkout-btn {
-    color: #033500;
+    color: #007230;
     background: #f6f6f6;
     margin-top: 30px;
 }
@@ -13661,7 +13661,7 @@ li .single-footer-contact-info .text p span {
 }
 
 .checkout-area .exisitng-customer h5 {
-    color: #033500;
+    color: #007230;
     font-size: 16px;
     font-weight: 500;
 }
@@ -13693,7 +13693,7 @@ li .single-footer-contact-info .text p span {
 }
 
 .checkout-area .coupon h5 {
-    color: #033500;
+    color: #007230;
     font-size: 16px;
     font-weight: 500;
 }
@@ -13710,7 +13710,7 @@ li .single-footer-contact-info .text p span {
 }
 
 .checkout-area .form form .field-label {
-    color: #033500;
+    color: #007230;
     font-size: 15px;
     font-weight: 400;
     margin: 0 0 2px;
@@ -13740,7 +13740,7 @@ li .single-footer-contact-info .text p span {
 }
 
 .checkout-area .create-acc .checkbox label {
-    color: #033500;
+    color: #007230;
     font-size: 16px;
     font-weight: 500;
     margin: 0;
@@ -13809,7 +13809,7 @@ li .single-footer-contact-info .text p span {
 .checkout-area .table .cart-table .cart-header {
     position: relative;
     background: #f6f6f6;
-    color: #033500;
+    color: #007230;
     font-size: 16px;
     font-weight: 600;
     text-transform: capitalize;
@@ -13873,7 +13873,7 @@ li .single-footer-contact-info .text p span {
 }
 
 .checkout-area .table .cart-table tbody tr .product-column .column-box .product-title h3 {
-    color: #033500;
+    color: #007230;
     font-size: 18px;
     font-weight: 600;
     text-transform: capitalize;
@@ -13988,7 +13988,7 @@ li .single-footer-contact-info .text p span {
     display: block;
     float: left;
     border-right: 1px solid #ededed;
-    color: #033500;
+    color: #007230;
     font-size: 16px;
     font-weight: 600;
     line-height: 28px;
@@ -14042,7 +14042,7 @@ li .single-footer-contact-info .text p span {
 }
 
 .cart-total .payment-options .option-block .checkbox label span {
-    color: #033500;
+    color: #007230;
     font-size: 16px;
     font-weight: 600;
     padding-left: 10px;
@@ -14050,7 +14050,7 @@ li .single-footer-contact-info .text p span {
 }
 
 .cart-total .payment-options .option-block .checkbox label span b {
-    color: #033500;
+    color: #007230;
     display: inline-block;
     font-size: 15px;
     font-weight: 400;
@@ -14140,7 +14140,7 @@ li .single-footer-contact-info .text p span {
 }
 
 .login-register-area .form .remember-text .checkbox label {
-    color: #033500;
+    color: #007230;
     font-size: 16px;
     font-weight: 600;
     margin: 0;
@@ -14153,7 +14153,7 @@ li .single-footer-contact-info .text p span {
 }
 
 .login-register-area .form .remember-text .checkbox span {
-    color: #033500;
+    color: #007230;
     font-size: 16px;
     font-weight: 600;
     font-family: 'Poppins', sans-serif;
@@ -14293,7 +14293,7 @@ li .single-footer-contact-info .text p span {
 }
 
 .single-contact-address-box h3 {
-    color: #033500;
+    color: #007230;
     font-size: 20px;
     line-height: 28px;
     font-weight: 600;
@@ -14537,7 +14537,7 @@ li .single-footer-contact-info .text p span {
 }
 
 .job-career-brochures-box .overlay-content .innner .box a {
-    color: #033500;
+    color: #007230;
     padding: 0 50px 0;
     background: #ffffff;
 }
@@ -14671,7 +14671,7 @@ li .single-footer-contact-info .text p span {
     background: #ffffff;
     width: 100px;
     height: 100px;
-    color: #033500;
+    color: #007230;
     font-size: 48px;
     line-height: 100px;
     font-weight: 500;
@@ -14751,7 +14751,7 @@ li .single-footer-contact-info .text p span {
     position: absolute;
     top: 0;
     right: 0;
-    color: #033500;
+    color: #007230;
     background: #ffffff;
     border-left: 1px solid #ededed;
     padding: 0;

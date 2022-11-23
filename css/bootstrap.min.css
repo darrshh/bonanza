@@ -17,7 +17,7 @@
     --cyan: #17a2b8;
     --white: #fff;
     --gray: #6c757d;
-    --gray-dark: #033500;
+    --gray-dark: #007230;
     --primary: #007bff;
     --secondary: #6c757d;
     --success: #28a745;
@@ -25,7 +25,7 @@
     --warning: #ffc107;
     --danger: #dc3545;
     --light: #f8f9fa;
-    --dark: #033500;
+    --dark: #007230;
     --breakpoint-xs: 0;
     --breakpoint-sm: 576px;
     --breakpoint-md: 768px;
@@ -2996,8 +2996,8 @@ fieldset:disabled a.btn {
 
 .btn-dark {
     color: #fff;
-    background-color: #033500;
-    border-color: #033500
+    background-color: #007230;
+    border-color: #007230
 }
 
 .btn-dark:hover {
@@ -3014,8 +3014,8 @@ fieldset:disabled a.btn {
 .btn-dark.disabled,
 .btn-dark:disabled {
     color: #fff;
-    background-color: #033500;
-    border-color: #033500
+    background-color: #007230;
+    border-color: #007230
 }
 
 .btn-dark:not(:disabled):not(.disabled).active,
@@ -3285,14 +3285,14 @@ fieldset:disabled a.btn {
 }
 
 .btn-outline-dark {
-    color: #033500;
-    border-color: #033500
+    color: #007230;
+    border-color: #007230
 }
 
 .btn-outline-dark:hover {
     color: #fff;
-    background-color: #033500;
-    border-color: #033500
+    background-color: #007230;
+    border-color: #007230
 }
 
 .btn-outline-dark.focus,
@@ -3302,7 +3302,7 @@ fieldset:disabled a.btn {
 
 .btn-outline-dark.disabled,
 .btn-outline-dark:disabled {
-    color: #033500;
+    color: #007230;
     background-color: transparent
 }
 
@@ -3310,8 +3310,8 @@ fieldset:disabled a.btn {
 .btn-outline-dark:not(:disabled):not(.disabled):active,
 .show>.btn-outline-dark.dropdown-toggle {
     color: #fff;
-    background-color: #033500;
-    border-color: #033500
+    background-color: #007230;
+    border-color: #007230
 }
 
 .btn-outline-dark:not(:disabled):not(.disabled).active:focus,
@@ -5527,7 +5527,7 @@ a.badge-light:hover {
 
 .badge-dark {
     color: #fff;
-    background-color: #033500
+    background-color: #007230
 }
 
 a.badge-dark:focus,
@@ -6960,7 +6960,7 @@ button.bg-light:hover {
 }
 
 .bg-dark {
-    background-color: #033500 !important
+    background-color: #007230 !important
 }
 
 a.bg-dark:focus,
@@ -7047,7 +7047,7 @@ button.bg-dark:hover {
 }
 
 .border-dark {
-    border-color: #033500 !important
+    border-color: #007230 !important
 }
 
 .border-white {
@@ -10820,7 +10820,7 @@ a.text-light:hover {
 }
 
 .text-dark {
-    color: #033500 !important
+    color: #007230 !important
 }
 
 a.text-dark:focus,
